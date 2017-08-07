@@ -114,7 +114,7 @@ function initMatrix (n) {
 
 generar.onclick = function () {
     var n = parseInt(document.getElementById('lados').value);
-    if(n > 4){
+    if(n > 0){
     tablaNueva();
     var p = document.getElementsByClassName("num");
     for (var i = 0; i < p.length; i++) {
