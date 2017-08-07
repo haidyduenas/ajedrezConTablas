@@ -1,8 +1,17 @@
+body {
+	background-color: #E9967A;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
 .negro{
   background-color: black;
   color:white;
 }
-
+.white {
+	background-color: white;
+	color: black;
+}
 td{
   width: 40px;
   height: 40px;
